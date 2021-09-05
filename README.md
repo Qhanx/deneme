@@ -1,0 +1,2 @@
+# deneme
+Eğitim İçin Deneme

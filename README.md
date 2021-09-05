@@ -1,2 +1,2 @@
 # deneme
-Eğitim İçin Deneme
+Eğitim İçin Deneme.
